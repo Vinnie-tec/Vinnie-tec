@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vinnie-tec
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning javascript and react.
