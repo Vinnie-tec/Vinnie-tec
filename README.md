@@ -49,3 +49,8 @@ I am an Open Source Enthusiast focusing on Front-end projects and as well as bac
 ![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnie-tec&theme=vue)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinnie-tec&theme=blue-green)
+
+##### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnie-tec&hide=css,html&langs_count=8)](https://github.com/vinnie-tec/github-readme-stats)
+
