@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Agboola Vincent. I am from Nigeria and currently working at [Quicktest](https://app.usequicktest.com/) Team in Nigeria🌍. I am an experienced web developer skilled in Full-Stack Wweb Development, Javascript and its frameworks(React, Nodejs).
+I am Agboola Vincent. I am from Nigeria🌍. I am an experienced web developer skilled in Full-Stack Wweb Development, Javascript and its frameworks(React, Nodejs).
 
 I major in Industrial Mathematics in [Federal University of Technology, Akure(FUTA)](https://www.futa.edu.ng/), Nigeria🎒.
 
