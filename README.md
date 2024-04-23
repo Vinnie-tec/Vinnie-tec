@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Welcome to my world of Web Development wizardry! 🌟 
+## Welcome to my world of Web Development Wizardry! 🌟 
 
 I'm Agboola Vincent, hailing from the vibrant land of Nigeria 🌍. With a strong foundation in Industrial Mathematics from the prestigious [Federal University of Technology, Akure (FUTA)](https://www.futa.edu.ng/), I've embarked on an exhilarating journey as a seasoned web developer.
 
