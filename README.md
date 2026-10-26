@@ -1,59 +1,121 @@
-# Hi there 👋
+# Hi, I'm Vincent Agboola 👋
 
-## Welcome to My Web Development World! 🌟 
+### Full-Stack Developer | Backend Engineering | Building Useful Things for the Web
 
-I'm Agboola Vincent from Nigeria 🌍. I hold a degree in Industrial Mathematics from [Federal University of Technology, Akure (FUTA)](https://www.futa.edu.ng/), and I’m a dedicated full-stack web developer.
+I'm **Agboola Vincent**, a developer from Nigeria 🇳🇬 with a degree in **Industrial Mathematics from the Federal University of Technology, Akure (FUTA)**.
 
-I specialize in Full-Stack Web Development with strong skills in JavaScript, TypeScript, and frameworks like React, Next.js, Node.js, etc. 🚀
+I build web applications with a focus on clean architecture, reliable backend systems, secure authentication, and thoughtful user experiences. I enjoy understanding how things work beneath the surface — from designing database schemas and building APIs to managing authentication, authorization, and application data.
 
-I’m passionate about open-source projects and enjoy working on both front-end and back-end solutions. If you’re looking to collaborate or need a reliable developer for your project, feel free to reach out—let’s build something great together!
+My current focus is building practical, production-minded applications with **TypeScript, Next.js, PostgreSQL, and modern backend technologies**.
+
+I believe great software is more than code that works. It's software that is secure, maintainable, understandable, and built to solve real problems.
+
+- 🌱 **Currently deepening my knowledge in:** Backend engineering, PostgreSQL, database transactions, authentication, authorization, and scalable application architecture.
+- 💻 **Core stack:** JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, and Drizzle ORM.
+- 🧠 **My approach:** Understand the problem, design the solution, write maintainable code, and keep learning.
+- 🤝 **Open to:** Meaningful collaborations, interesting projects, and opportunities to build useful software with other developers.
+- 📍 **Based in:** Nigeria.
 
 ---
 
-## 🔩 Languages
+## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+### Languages
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
-## 👩‍💻 Technologies
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express Js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Graphql](https://img.shields.io/badge/Graphql-fea3b3?style=for-the-badge&logo=graphql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
 
-## 🏪 Database
+### Backend Development
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=fff)
+
+### Databases & Data Access
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+
+### Authentication & Development Tools
+
+![Better Auth](https://img.shields.io/badge/Better_Auth-333?style=for-the-badge)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 ---
 
-### 📲 Connect with me via
+## 🚀 Featured Projects
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agboola-vincent)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:agboolavin65@gmail.com)](mailto:agboolavin65@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/?next=/vincentolamide/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VinnieOlamide)
-[![Sololearn Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/Profile/18372840/?ref=app)
+### CampusFlow
+
+**A full-stack project management application built with a modern TypeScript stack.**
+
+CampusFlow is my hands-on exploration of building reliable web applications with a strong backend foundation. It brings together authentication, database-backed project management, and user-specific data access.
+
+**Technologies:** Next.js · TypeScript · PostgreSQL · Drizzle ORM · Better Auth
+
+**Key areas of development:**
+- User authentication and session management.
+- Protected application routes and server-side authorization.
+- User-owned resources and database-level relationships.
+- Project creation, retrieval, updating, and deletion.
+- Input validation and access-control enforcement.
+- Database migrations and structured data access.
+
+🔗 **Repository:** [CampusFlow](https://github.com/vinnie-tec/campusflow)
 
 ---
 
-#### 🔥 MY STATS
+## 📊 GitHub at a Glance
 
-![profile-summary](https://github-readme-stats.vercel.app/api?username=vinnie-tec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=1eb2c5&icon_color=035927&bg_color=1,051005,051005,051005,051005&theme=blue-green)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinnie-tec&show_icons=true&hide_border=true&theme=transparent" alt="Vincent's GitHub statistics" />
+</p>
 
-![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinnie-tec&theme=vue)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinnie-tec&hide_border=true&theme=transparent" alt="Vincent's GitHub contribution streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinnie-tec&theme=blue-green)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnie-tec&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</p>
 
-##### 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnie-tec&hide=css,html&langs_count=8)](https://github.com/vinnie-tec/github-readme-stats)
+## 🤝 Let's Connect
 
+I'm always happy to connect with developers, exchange ideas, learn from other engineers, and explore opportunities to build meaningful products.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/agboola-vincent">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:agboolavin65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+  </a>
+  <a href="https://twitter.com/VinnieOlamide">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow me on X" />
+  </a>
+  <a href="https://www.instagram.com/vincentolamide/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building with purpose. Learning continuously. Engineering better solutions, one project at a time.</i>
+</p>
